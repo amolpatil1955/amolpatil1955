@@ -1,94 +1,98 @@
-<div align="center">
+# Hi, I'm Amol Patil 👋
 
-<!-- Animated header with waving effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20There!%20I'm%20Amol%20Patil%20🚀&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header" />
+**Full Stack Developer** · **Generative AI Engineer** · **DevOps Enthusiast**
 
-<!-- Typing animation -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Engineer;Building+AI-Powered+Web+Products+%F0%9F%A7%A0%E2%9A%A1;OpenAI+%7C+Gemini+%7C+LangChain;Code+%E2%86%92+Ship+%E2%86%92+Repeat+%F0%9F%94%A5" alt="Typing SVG" />
-</h3>
+I build fast, scalable web applications and AI-powered products. Passionate about turning complex ideas into clean, production-ready solutions.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amolpatil1955)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amolpatil1955)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://amolpatil1955.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amolpatil1955@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=amolpatil1955&style=flat&color=0A66C2)
 
-<!-- Quick intro with wave gif -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Amol Patil</h2>
+---
 
-<p>
-  <strong>Full Stack + AI Engineer</strong> from India 🇮🇳<br>
-  Passionate about creating exciting AI-powered web products at 3 AM ☕💻<br>
-  <em>"Code → Ship → Repeat" 🚀😎</em>
-</p>
+## About Me
 
-<br>
+```ts
+const amol = {
+  location : "India 🇮🇳",
+  stack    : ["MongoDB", "Express", "React", "Node.js"],
+  ai       : ["OpenAI", "Gemini", "LangChain", "RAG"],
+  devops   : ["Docker", "GitHub Actions", "Linux", "CI/CD"],
+  focus    : "AI-integrated full-stack products",
+  status   : "Open to work & collaborations 🤝",
+};
+```
 
-<!-- Tech Stack with skill icons -->
-<h3>🛠️ Tech Stack</h3>
+---
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb,git,docker,linux&perline=7" alt="tech stack" />
-  </a>
-</p>
+## Tech Stack
 
-<p>
-  <strong>GenAI:</strong> OpenAI &nbsp; • &nbsp; Gemini &nbsp; • &nbsp; LangChain<br>
-  <strong>Backend/DB:</strong> Node.js • Express • REST APIs • MongoDB / Mongoose
-</p>
+**Frontend**
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- GitHub Stats - centered cards -->
-<h3>⚡ GitHub Stats</h3>
+**Backend & Database**
 
-<img src="https://github-readme-stats.vercel.app/api?username=amolgatil1955&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amolgatil1955&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="40%" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<br><br>
+**Generative AI**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolgatil1955&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engg.-6B21A8?style=flat-square)
 
-<br><br>
+**DevOps & Tools**
 
-<!-- Fun facts / current focus -->
-<h3>🔥 Currently Vibing With</h3>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p>
-  <strong>AI-Powered Web Products</strong> 🧠✨<br>
-  Looking for <strong>exciting collaborations</strong> (especially at 3 AM) 😄❤️<br>
-  <strong>Superpower:</strong> Shipping features fast<br>
-  <strong>Motto:</strong> Code → Ship → Repeat ▶️
-</p>
+---
 
-<br>
+## Featured Projects
 
-<!-- Social / Connect -->
-<h3>📫 Let's Connect!</h3>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**AI Resume Builder**](https://github.com/amolpatil1955/Ai_resume_Builder) | AI-powered resume generator using LLMs | MERN · OpenAI · LangChain |
+| [**NexusAI**](https://github.com/amolpatil1955/NexusAI) | Multi-model AI application with real-time responses | Node.js · Gen AI |
+| [**Vehicle Rental App**](https://github.com/amolpatil1955/Vehical-rental-app) | Full-stack rental platform with auth & bookings | MERN · JWT |
+| [**Readly.in**](https://github.com/amolpatil1955/Readly.in) | Content reading platform with personalized feeds | MERN |
+| [**Talky**](https://github.com/amolpatil1955/talky) | Real-time chat app with room management | MERN · Socket.io |
 
-<p>
-  <!-- Add your actual links here -->
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amolpatil1955&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&count_private=true&include_all_commits=true" height="160"/>
   &nbsp;
-  <a href="https://linkedin.com/in/amolpatil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolpatil1955&layout=compact&hide_border=true&title_color=0A66C2" height="160"/>
 </p>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=amolpatil1955&theme=default&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2" height="150"/>
 
-<!-- Trophy / extra flair -->
-<h3>🏆 Achievements</h3>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=amolgatil1955&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+## Contribution Graph
 
-<br><br>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amolpatil1955&theme=minimal&hide_border=true&color=0A66C2&line=0A66C2&point=EA4335)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Footer wave / animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="wave footer" />
+---
 
 <p align="center">
-  <i>Thanks for visiting! Drop a ⭐ if you like the vibe 😎</i><br>
-  Last updated: March 2026
+  <i>"Build fast. Ship clean. Keep learning."</i>
+  <br/><br/>
+  <b>⭐ If you find my work useful, consider starring the repos!</b>
 </p>
-
-</div>
